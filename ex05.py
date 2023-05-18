@@ -10,5 +10,5 @@ elif sal < 1000:
     salN = (sal * 0.10) + sal
 else:
     salN = (sal * 0.05) + sal
-print("Seu novo salário é: RR${}".format(salN))
+print("Seu novo salário é: R${}".format(salN))
 
