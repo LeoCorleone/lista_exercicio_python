@@ -4,6 +4,7 @@
 
 num = input("Digite um número inteiro qualquer: ")
 ix = 0
+print(len(num))
 while ix < len(num):
     ix = ix + 1
 print("O numéro {} tem {} caractéres.".format(num, ix))
